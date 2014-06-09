@@ -1,0 +1,35 @@
+div.body {
+	width: 980px;
+	margin: 800 auto;
+}
+
+
+/*Edicion del canvas
+#asciiContainer {
+	background-color: #fff;Fondo del canvas
+	width: 960px;
+	height: 714px;
+	padding: 10px;
+	-box-shadow: 5px 6px 21px rgba(0, 0, 0, 0.99);
+    -moz-box-shadow: 5px 6px 21px rgba(0, 0, 0, 0.99);
+    -webkit-box-shadow: 5px 6px 21px rgba(0, 0, 0, 0.99);
+    color: #000;
+}
+*/
+/*Proporcion del Ascci*/
+#asciiText {
+	margin: 20px;
+	font-size:x-small; 
+	line-height:60%;
+	width: 960px;
+	height: 700px;
+	color: #00FFFF;
+}
+
+Edicion del canvas
+#asciiContainer {
+	background-color: #FF00FF;
+	padding: 0px;
+	color: #FF00FF;
+	border: 500px solid #FF00FF;
+}
